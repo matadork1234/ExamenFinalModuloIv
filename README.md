@@ -1,5 +1,6 @@
 # Examen Final Modulo 4 - Carrito de compras
 
+Proyecto realizado por Sergio Omar Sandy Cordova
 Para ejecutar el proyecto, tendra que ejecutar los siguientes comandos:
 
 ### Paso 1:
