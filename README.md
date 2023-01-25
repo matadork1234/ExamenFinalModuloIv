@@ -1,6 +1,6 @@
 # Examen Final Modulo 4 - Carrito de compras
 
-Proyecto realizado por Sergio Omar Sandy Cordova
+Proyecto realizado por `Sergio Omar Sandy Cordova`, `Israel Rodrigo Rocha` y `Carmen Veronica Rodriguez`, esta realizado con typeorm y la base de datos de postgres
 Para ejecutar el proyecto, tendra que ejecutar los siguientes comandos:
 
 ### Paso 1:
